@@ -1,0 +1,16 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\bin\Debug\cours01.exe.config
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\bin\Debug\cours01.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\bin\Debug\cours01.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.csproj.AssemblyReference.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\MainWindow.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\App.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01_MarkupCompile.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01_MarkupCompile.lref
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\MainWindow.baml
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.g.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.Properties.Resources.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.csproj.GenerateResource.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\cours01\obj\Debug\cours01.exe.config

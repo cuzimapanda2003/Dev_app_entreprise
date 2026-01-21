@@ -1,0 +1,52 @@
+﻿<Window x:Class="cours01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cours01"
+        mc:Ignorable="d"
+        Title="cours01" Height="500" Width="800">
+
+    <!--<StackPanel>
+        <WrapPanel>
+            <Label>allo</Label>
+            <TextBlock>shalut</TextBlock>
+            <TextBox>shalut</TextBox>
+            <Button>envoyer</Button>
+        </WrapPanel>
+
+    </StackPanel>-->
+
+    <Grid ShowGridLines="true">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Grid.Column="2" Grid.Row="0" >bouton 1</Button>
+        <WrapPanel Grid.Column="1">
+        <Button Content="bouton 3"/>
+        </WrapPanel>
+        <TextBox Text="salut" Grid.Column="3"/>
+
+        <StackPanel Grid.Column="1" Grid.Row="1">
+            <Label>salut</Label>
+            <Label>comment ca va?</Label>
+        </StackPanel>
+        
+        <StackPanel Grid.Column="2" Grid.Row="1" Orientation="Horizontal">
+            <Label>salut</Label>
+            <Label>comment ca va</Label>
+        </StackPanel>
+        
+    </Grid>
+    
+    
+    
+</Window>
