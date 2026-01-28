@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace cours02
+namespace app1demo
 {
     /// <summary>
     /// Logique d'interaction pour MainWindow.xaml
@@ -25,9 +25,10 @@ namespace cours02
             InitializeComponent();
         }
 
-        private void Button1_Click()
+        private void txtecrit_TextChanged(object sender, TextChangedEventArgs e)
         {
-
+            lblsuivi.Content = txtecrit.Text;
+            txtsuivi.Text = txtecrit.Text;
         }
     }
 }
