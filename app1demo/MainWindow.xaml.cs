@@ -25,10 +25,10 @@ namespace app1demo
             InitializeComponent();
         }
 
-        private void txtecrit_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            lblsuivi.Content = txtecrit.Text;
-            txtsuivi.Text = txtecrit.Text;
-        }
+        //private void txtecrit_TextChanged(object sender, TextChangedEventArgs e)
+        //{
+        //    lblsuivi.Content = txtecrit.Text;
+        //    txtsuivi.Text = txtecrit.Text;
+        //}
     }
 }

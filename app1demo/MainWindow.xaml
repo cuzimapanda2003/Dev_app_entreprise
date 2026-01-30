@@ -5,21 +5,42 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:app1demo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        Name="fenetre"
+        Background="Azure"
+        >
 
     <StackPanel Margin="10">
-        <TextBox TextChanged="txtecrit_TextChanged" Name="txtecrit" />
+        <TextBox Name="txtecrit" />
       
             <WrapPanel Margin="0,10">
                 <TextBlock Text=" je copie ce que tu écris dans un TexBlock : " Margin="5,0,0,0" FontWeight="Bold" />
-                <TextBlock Name="txtsuivi" />
-            </WrapPanel>
+
+            <TextBlock Name="txtsuivi" Text="{Binding Text,ElementName=txtecrit}"/>
+
+        </WrapPanel>
             <WrapPanel Margin="0,10">
                 <TextBlock Text=" je copie ce que tu écris dans un Label : " Padding="5" FontWeight="Bold" />
-                <Label Name="lblsuivi" VerticalContentAlignment="Top" />
+                <Label Name="lblsuivi" VerticalContentAlignment="Top" Content="{Binding Text, ElementName=txtecrit}" />
             </WrapPanel>
-           
-        </StackPanel>
+
+
+        <TextBlock>Text Block qui a un binding sur slider</TextBlock>
+        <TextBox Text="{Binding Value, ElementName=monSlider}"></TextBox>
+
+        <Slider Name="monSlider" Margin="10"  Maximum="100" IsSnapToTickEnabled="True"></Slider>
+
+        <TextBlock>Slider qui a un bind sur Textblock</TextBlock>
+        <TextBox Name="monText"></TextBox>
+        <Slider Margin="10"  Maximum="100" IsSnapToTickEnabled="True" Value="{Binding Text, ElementName=monText}"></Slider>
+
+
+
+        <TextBox Name="hauteur" Text="{Binding Height, ElementName= fenetre}"></TextBox>
+        <TextBox Text="{Binding Width, ElementName= fenetre}"></TextBox>
+    
+
+    </StackPanel>
 
     
     
