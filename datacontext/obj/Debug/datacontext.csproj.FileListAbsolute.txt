@@ -1,0 +1,16 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\bin\Debug\datacontext.exe.config
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\bin\Debug\datacontext.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\bin\Debug\datacontext.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.csproj.AssemblyReference.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\MainWindow.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\App.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext_MarkupCompile.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext_MarkupCompile.lref
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\MainWindow.baml
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.g.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.Properties.Resources.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.csproj.GenerateResource.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\datacontext\obj\Debug\datacontext.exe.config

@@ -38,7 +38,9 @@
 
         <TextBox Name="hauteur" Text="{Binding Height, ElementName= fenetre}"></TextBox>
         <TextBox Text="{Binding Width, ElementName= fenetre}"></TextBox>
-    
+
+        <Rectangle Height="30" Fill="blue" Name="rectangle" Width="30"></Rectangle>
+        <Rectangle Height="30" Fill="red" Width="30"></Rectangle>
 
     </StackPanel>
 
