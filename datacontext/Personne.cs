@@ -31,7 +31,7 @@ namespace datacontext
             set
             {
                 nom = value;
-                MessageBox.Show(nom);
+               // MessageBox.Show(nom);
                 OnPropertyChanged();
                 OnPropertyChanged("NomComplet");
 
@@ -43,7 +43,7 @@ namespace datacontext
             set
             {
                 prenom = value;
-                MessageBox.Show(prenom);
+              //  MessageBox.Show(prenom);
                 OnPropertyChanged();
                 OnPropertyChanged("NomComplet");
             }
@@ -54,7 +54,7 @@ namespace datacontext
             set
             {
                 age = value;
-                MessageBox.Show(age.ToString());
+             //   MessageBox.Show(age.ToString());
             }
         }
         public string NomComplet

@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\datacontext\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 04\\dev_app_entreprise\\datacontext\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 04\\dev_app_entreprise\\datacontext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 04\\dev_app_entreprise\\datacontext\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\datacontext\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\datacontext\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C8150C-CB8D-4A09-BDD4-DD42D45657CA}|datacontext.csproj|solutionrelative:personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,14 +44,14 @@
               "RelativeDocumentMoniker": "Personne.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\datacontext\\Personne.cs",
               "RelativeToolTip": "Personne.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA1wDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T22:36:48.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\datacontext\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -63,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\datacontext\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\datacontext\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T19:58:50.61Z",
               "EditorCaption": ""

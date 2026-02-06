@@ -1,0 +1,105 @@
+﻿<Window x:Class="tp01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tp01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="650"
+        Background="PowderBlue"
+        >
+
+    <Grid ShowGridLines="True">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="275" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="100" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+
+            <WrapPanel Height="35">
+                <Label  Width="100">id Client :</Label>
+                <Label>12345</Label>
+            </WrapPanel>
+
+            <WrapPanel Height="35">
+                <Label  Width="100">nom :</Label>
+                <TextBox Width="150" Text="{Binding Nom, Mode=TwoWay}"></TextBox>
+            </WrapPanel>
+
+            <WrapPanel Height="35">
+                <Label  Width="100">Telephone :</Label>
+                <TextBox Width="150" Text="{Binding Telephone, Mode=TwoWay}"></TextBox>
+            </WrapPanel>
+
+            <WrapPanel Height="35">
+                <Label  Width="100">adresse :</Label>
+                <TextBox Width="150" Text="{Binding Adresse, Mode=TwoWay}"></TextBox>
+            </WrapPanel>
+
+            <WrapPanel Height="35">
+                <Label  Width="100">code postale :</Label>
+                <TextBox Width="150" Text="{Binding CP}"></TextBox>
+            </WrapPanel>
+
+        </StackPanel>
+
+        <StackPanel Margin="20" Grid.Column="3">
+
+            <WrapPanel Height="25">
+                <Button Width="55">add</Button>
+            </WrapPanel>
+            <WrapPanel Height="25">
+                <Button Width="55" >edit</Button>
+            </WrapPanel>
+            <WrapPanel Height="25">
+                <Button Width="55" >delete</Button>
+            </WrapPanel>
+            <WrapPanel Height="25">
+                <Button Width="55" >save</Button>
+            </WrapPanel>
+
+            <WrapPanel Height="25">
+                <Button Width="55" >cancel</Button>
+            </WrapPanel>
+
+        </StackPanel>
+
+
+        <StackPanel Grid.Column="1">
+            <StackPanel>
+                <WrapPanel>
+                    <Label Width="100">Province: </Label>
+                    <TextBox Width="35" Height="20" Text="{Binding CPR, Mode=TwoWay}"></TextBox>
+                </WrapPanel>
+
+                <WrapPanel>
+                    <Label Width="100">Pays:</Label>
+                    <TextBox Width="35" Height="20" Text="{Binding CPA, Mode=TwoWay}"></TextBox>
+                </WrapPanel>
+            </StackPanel>
+            
+            
+            
+        </StackPanel>
+        
+        
+        
+        
+        
+        
+        
+        
+
+    </Grid>
+
+    
+    
+</Window>

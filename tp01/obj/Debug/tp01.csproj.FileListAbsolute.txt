@@ -1,0 +1,16 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\bin\Debug\tp01.exe.config
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\bin\Debug\tp01.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\bin\Debug\tp01.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.csproj.AssemblyReference.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\MainWindow.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\App.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01_MarkupCompile.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01_MarkupCompile.lref
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\MainWindow.baml
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.g.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.Properties.Resources.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.csproj.GenerateResource.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\tp01\obj\Debug\tp01.exe.config

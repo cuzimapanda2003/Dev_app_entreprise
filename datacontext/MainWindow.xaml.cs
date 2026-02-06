@@ -24,6 +24,8 @@ namespace datacontext
     public partial class MainWindow : Window
     {
         Personne p1 = new Personne();
+        //aurait pus faire public Personne p1 {get; set;} = new Personne();
+        //et utiliser DataContext = this, mais dans .xaml devrais utiliser p1.age au lieux de age
         public MainWindow()
         {
             DataContext = p1;
