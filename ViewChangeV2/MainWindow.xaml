@@ -1,0 +1,60 @@
+﻿<Window x:Class="ViewChangeV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViewChangeV2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        xmlns:viewmodels="clr-namespace:ViewChangeV2.ViewsModels"
+        xmlns:views="clr-namespace:ViewChangeV2.Views"
+        >
+
+    <Window.Resources>
+        <DataTemplate x:Name="redViewTemplate" DataType="{x:Type  viewmodels:RedViewModel}">
+            <views:RedView/>
+
+            <!--création et présentation de la vue si dataContext redViewModel-->
+
+        </DataTemplate>
+        <DataTemplate x:Name="blueViewTemplate" DataType="{x:Type  viewmodels:BlueViewModel}">
+            <views:BlueView/>
+        </DataTemplate>
+
+
+        <DataTemplate x:Name="YellowViewTemplate" DataType="{x:Type  viewmodels:JauneViewModel}">
+            <views:YellowView/>
+        </DataTemplate>
+
+
+    </Window.Resources>
+
+
+
+    <Grid Background="Coral">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Background="Cyan"  Grid.Row="0" Grid.Column="0" Grid.RowSpan="5">
+            <StackPanel>
+                <Button Name="btn_Red_view" Content="Red View" Click="btn_Red_view_Click" />
+                <Button Name="btn_Blue_view" Content="Blue View" Click="btn_Blue_view_Click" />
+                <Button Name="btn_jaune_view" Content="Yellow view" Click="btn_jaune_view_Click"/>
+            </StackPanel>
+        </DockPanel>
+        <ContentControl   Grid.Row="0" Grid.Column="1" Grid.RowSpan="5" Grid.ColumnSpan="4" Content="{Binding }" />
+    </Grid>
+    
+    
+</Window>

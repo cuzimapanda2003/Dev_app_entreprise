@@ -32,7 +32,7 @@
 
         <TextBlock>Slider qui a un bind sur Textblock</TextBlock>
         <TextBox Name="monText"></TextBox>
-        <Slider Margin="10"  Maximum="100" IsSnapToTickEnabled="True" Value="{Binding Text, ElementName=monText}"></Slider>
+        <Slider  Maximum="100" IsSnapToTickEnabled="True" Value="{Binding Text, ElementName=monText}"/>
 
 
 

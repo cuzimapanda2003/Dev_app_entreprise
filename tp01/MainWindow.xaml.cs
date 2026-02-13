@@ -26,5 +26,20 @@ namespace tp01
             InitializeComponent();
             DataContext = c;
         }
+
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            c.Adresse += 's';
+            c.Solde += 10.00;
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(
+                c.Nom + "\n" + c.Solde + "\n" + c.CPR
+                );
+        }
     }
 }
+//Le deuxième bouton affiche un messageBox avec le solde et le nom du client 

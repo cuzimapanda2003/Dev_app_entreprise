@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 04\\dev_app_entreprise\\tp01\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\tp01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|c:\\users\\marcb\\onedrive - c\u00E9gep de shawinigan\\_c\u00E9gep\\session 04\\dev_app_entreprise\\tp01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\tp01\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B770529C-7300-4B52-9E24-7F14F42F0772}|tp01.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,21 +33,16 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "client.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\tp01\\client.cs",
               "RelativeDocumentMoniker": "client.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\tp01\\client.cs",
               "RelativeToolTip": "client.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowCcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAA7wEwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T16:14:09.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T16:14:09.402Z"
             },
             {
               "$type": "Document",
@@ -63,16 +58,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\tp01\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive - C\u00E9gep de Shawinigan\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\tp01\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T16:12:49.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-06T16:12:49.625Z"
             }
           ]
         }

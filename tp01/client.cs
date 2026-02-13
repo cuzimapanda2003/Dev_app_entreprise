@@ -18,14 +18,14 @@ namespace tp01
 
 
         private int id = 1234;
+        private string cell = "819-123-4567";
         private string name = "jean";
-        private string telepĥone = "819-123-4567";
         private string adresse = "123 fausse rue";
         private string ville = "Shawinigan";
         private string code_postale = "G2M 1W3";
         private string code_province = "QC";
         private string code_pays = "CAN";
-        private float solde = 200;
+        private double solde = 200.53;
 
 
         public int Id
@@ -37,6 +37,15 @@ namespace tp01
             }
         }
 
+        public string Cell
+        {
+            get => cell;
+            set
+            {
+                cell = value;
+            }
+        }
+
         public string Nom
         {
             get => name;
@@ -44,17 +53,6 @@ namespace tp01
             {
                 name = value;
                 // MessageBox.Show(nom);
-                OnPropertyChanged();
-
-            }
-        }
-
-        public string Telephone
-        {
-            get => telepĥone;
-            set
-            {
-                telepĥone = value;
                 OnPropertyChanged();
 
             }
@@ -117,9 +115,9 @@ namespace tp01
             }
         }
 
-        public float Solde
+        public double Solde
         {
-            get => solde;
+            get =>  solde;
             set
             {
                 solde = value;

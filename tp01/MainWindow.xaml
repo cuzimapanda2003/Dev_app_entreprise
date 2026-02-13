@@ -5,20 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:tp01"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="650"
+        Title="MainWindow" Height="350" Width="650"
         Background="PowderBlue"
         >
 
     <Grid ShowGridLines="True">
 
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="275" />
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="300" />
+
         </Grid.ColumnDefinitions>
 
         <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="210"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
@@ -36,7 +36,7 @@
 
             <WrapPanel Height="35">
                 <Label  Width="100">Telephone :</Label>
-                <TextBox Width="150" Text="{Binding Telephone, Mode=TwoWay}"></TextBox>
+                <TextBox Width="150" Text="{Binding Cell, Mode=TwoWay}"></TextBox>
             </WrapPanel>
 
             <WrapPanel Height="35">
@@ -51,46 +51,71 @@
 
         </StackPanel>
 
-        <StackPanel Margin="20" Grid.Column="3">
-
-            <WrapPanel Height="25">
-                <Button Width="55">add</Button>
-            </WrapPanel>
-            <WrapPanel Height="25">
-                <Button Width="55" >edit</Button>
-            </WrapPanel>
-            <WrapPanel Height="25">
-                <Button Width="55" >delete</Button>
-            </WrapPanel>
-            <WrapPanel Height="25">
-                <Button Width="55" >save</Button>
-            </WrapPanel>
-
-            <WrapPanel Height="25">
-                <Button Width="55" >cancel</Button>
-            </WrapPanel>
-
-        </StackPanel>
-
-
         <StackPanel Grid.Column="1">
-            <StackPanel>
-                <WrapPanel>
-                    <Label Width="100">Province: </Label>
-                    <TextBox Width="35" Height="20" Text="{Binding CPR, Mode=TwoWay}"></TextBox>
-                </WrapPanel>
+            <Border BorderBrush="gray"
+                        BorderThickness="2"
+                        CornerRadius="0"
+                    Margin="10"
+                    >
+                <StackPanel>
+
 
                 <WrapPanel>
-                    <Label Width="100">Pays:</Label>
+                    <Label Width="75">Province: </Label>
+                    <TextBox Width="35" Height="20" Text="{Binding CPR, Mode=TwoWay}"></TextBox>
+                        <Label Width="20"/>
+                        <ComboBox Width="100"></ComboBox>
+                    </WrapPanel>
+
+                    <Label/>
+                    <WrapPanel>
+                    <Label Width="75">Pays:</Label>
                     <TextBox Width="35" Height="20" Text="{Binding CPA, Mode=TwoWay}"></TextBox>
-                </WrapPanel>
+                        <Label Width="20"/>
+                        <ComboBox Width="100"></ComboBox>
+                    </WrapPanel>
+
+              
+
             </StackPanel>
+            </Border>
+
+            <WrapPanel>
+                <Label Width="100">Solde:</Label>
+                <TextBox IsReadOnly="true"  Width="150" Text="{Binding Solde, Mode=TwoWay, StringFormat='C'}"></TextBox>
+                <Button Width="300" Click="Button_Click_1">Ajouter 10$ au solde et un s a l'adresse</Button>
+                <Button Width="300" Click="Button_Click_2">message box pour afficher info client</Button>
+            </WrapPanel>
+
+
+        </StackPanel>
+
+
+
+        <StackPanel Grid.Column="1" Grid.Row="1">
+
+
+            <Label>Épaisseur de la bordure 0 a 10</Label>
+            <Border BorderBrush="Red"
+            BorderThickness="{Binding ElementName=slide, Path=Value}"
+            Name="bordure"
+            CornerRadius="10"
+            Padding="15"
+            Background="blue">
+
+                <Slider Minimum="0"
+                Maximum="10"
+                Value="2"
+                TickFrequency="1"
+                IsSnapToTickEnabled="True"
+                Name="slide"/>
+
+            </Border>
             
-            
-            
+
         </StackPanel>
         
-        
+      
         
         
         
