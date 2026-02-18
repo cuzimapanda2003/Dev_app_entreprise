@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ViewChangeV2.ViewsModels
 {
-    public class RedViewModel
+    public class RedViewModel : BaseViewModel
     {
     }
 }

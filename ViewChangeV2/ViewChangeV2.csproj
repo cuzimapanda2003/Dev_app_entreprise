@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Models\Animal.cs" />
     <Compile Include="ViewsModels\BaseViewModel.cs" />
     <Compile Include="ViewsModels\BlueViewModel.cs" />
     <Compile Include="ViewsModels\JauneViewModel.cs" />
@@ -95,7 +96,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Commands\RelayCommand.cs" />
+    <Compile Include="Commands\RelayCommand.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -120,6 +121,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

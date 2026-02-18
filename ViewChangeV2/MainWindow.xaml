@@ -48,12 +48,12 @@
         </Grid.ColumnDefinitions>
         <DockPanel Background="Cyan"  Grid.Row="0" Grid.Column="0" Grid.RowSpan="5">
             <StackPanel>
-                <Button Name="btn_Red_view" Content="Red View" Click="btn_Red_view_Click" />
-                <Button Name="btn_Blue_view" Content="Blue View" Click="btn_Blue_view_Click" />
-                <Button Name="btn_jaune_view" Content="Yellow view" Click="btn_jaune_view_Click"/>
+                <Button Name="btn_Red_view" Content="Red View" Command="{Binding RedViewCommand}" />
+                <Button Name="btn_Blue_view" Content="Blue View" Command="{Binding BlueViewCommand}" />
+                <Button Name="btn_jaune_view" Content="Yellow view" Command="{Binding YellowViewCommand}" />
             </StackPanel>
         </DockPanel>
-        <ContentControl   Grid.Row="0" Grid.Column="1" Grid.RowSpan="5" Grid.ColumnSpan="4" Content="{Binding }" />
+        <ContentControl   Grid.Row="0" Grid.Column="1" Grid.RowSpan="5" Grid.ColumnSpan="4" Content="{Binding CurrentViewModel}" />
     </Grid>
     
     

@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ViewChangeV2.Models.Commands
+namespace ViewChangeV2.Models
 {
-    public class RelayCommand
+    public class Animal
     {
+        public string Name { get; set; }
+        public int Age { get; set; }
     }
 }

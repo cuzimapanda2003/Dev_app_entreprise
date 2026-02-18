@@ -24,25 +24,26 @@ namespace ViewChangeV2
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new MainViewModel();
         }
 
 
-        private void btn_Red_view_Click(object sender, RoutedEventArgs e)
-        {
-            DataContext = new RedViewModel();
-            //DataContext = new UC_RedView();
-        }
+        //private void btn_Red_view_Click(object sender, RoutedEventArgs e)
+        //{
+        //    DataContext = new RedViewModel();
+        //    //DataContext = new UC_RedView();
+        //}
 
-        private void btn_Blue_view_Click(object sender, RoutedEventArgs e)
-        {
-            DataContext = new BlueViewModel();
-            //DataContext = new UC_BlueView();
-        }
+        //private void btn_Blue_view_Click(object sender, RoutedEventArgs e)
+        //{
+        //    DataContext = new BlueViewModel();
+        //    //DataContext = new UC_BlueView();
+        //}
 
-        private void btn_jaune_view_Click(object sender, RoutedEventArgs e)
-        {
-            DataContext = new JauneViewModel();
-        }
+        //private void btn_jaune_view_Click(object sender, RoutedEventArgs e)
+        //{
+        //    DataContext = new JauneViewModel();
+        //}
     }
 
 
