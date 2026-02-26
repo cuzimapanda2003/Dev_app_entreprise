@@ -16,22 +16,21 @@
         <StackPanel Grid.Column="1">
             <WrapPanel>
                 <Label MinWidth="50" Margin="10">Nom :</Label>
-                <TextBox MinWidth="100" Margin="10" Text="{Binding Animal.Name}"/>
+                <TextBox MinWidth="100" Margin="10" Text="{Binding Selected.Name}"/>
             </WrapPanel>
             <WrapPanel>
                 <Label MinWidth="50" Margin="10">Age :</Label>
-                <TextBox MinWidth="100" Margin="10" Text="{Binding Animal.Age}"/>
+                <TextBox MinWidth="100" Margin="10" Text="{Binding Selected.Age}"/>
             </WrapPanel>
+            <Button Content="Add" Command="{Binding AddCommand}" />
+            <Button Content="Delete" Command="{Binding DeleteCommand}" />
 
         </StackPanel>
 
-        <ListBox Grid.Column="0"
-            ItemsSource="{Binding Animals, Mode=TwoWay}"
-            DisplayMemberPath="Name"
-            >
-        </ListBox>
 
-        <ListBox ItemsSource="{Binding Animals}">
+        <ListBox ItemsSource="{Binding Animals}"
+                 SelectedItem="{Binding Selected}"
+                 >
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Orientation="Horizontal">

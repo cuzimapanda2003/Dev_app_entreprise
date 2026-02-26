@@ -1,0 +1,44 @@
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.csproj.AssemblyReference.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\MainWindow.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\App.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02_MarkupCompile.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02_MarkupCompile.lref
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\bin\Debug\TP02.exe.config
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\bin\Debug\TP02.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\bin\Debug\TP02.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\App.baml
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\MainWindow.baml
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.g.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.Properties.Resources.resources
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.csproj.GenerateResource.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.exe
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.pdb
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.exe.config
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\ClientView.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\ClientView.baml
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\AcceuilView.g.cs
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\AcceuilView.baml
+C:\Users\marcb\OneDrive - Cégep de Shawinigan\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\bin\Debug\TP02.exe.config
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\bin\Debug\TP02.exe
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\bin\Debug\TP02.pdb
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.csproj.AssemblyReference.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.exe.config
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\MainWindow.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\AcceuilView.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\ClientView.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\App.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02_MarkupCompile.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02_MarkupCompile.lref
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\App.baml
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\MainWindow.baml
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\AcceuilView.baml
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\Views\ClientView.baml
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.g.resources
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.Properties.Resources.resources
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.csproj.GenerateResource.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.exe
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\TP02\obj\Debug\TP02.pdb

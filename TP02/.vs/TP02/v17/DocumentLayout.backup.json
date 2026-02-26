@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\tp02\\viewsmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:viewsmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\views\\acceuilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:views\\acceuilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\viewsmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:viewsmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\tp02\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T18:12:32.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Views\\ClientView.xaml",
+              "RelativeDocumentMoniker": "Views\\ClientView.xaml",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Views\\ClientView.xaml",
+              "RelativeToolTip": "Views\\ClientView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T22:42:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\ViewsModels\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\ViewsModels\\ClientViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\ClientViewModel.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv50AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T23:22:19.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\ViewsModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\ViewsModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T23:01:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcceuilView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Views\\AcceuilView.xaml",
+              "RelativeDocumentMoniker": "Views\\AcceuilView.xaml",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Views\\AcceuilView.xaml",
+              "RelativeToolTip": "Views\\AcceuilView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-21T22:42:15.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
