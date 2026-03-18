@@ -1,0 +1,38 @@
+﻿USE bditemcom0ss3
+GO
+   
+    DROP TABLE IF EXISTS dbo.Province;
+ CREATE TABLE Province (
+  Code_Province VARCHAR(2) PRIMARY KEY,
+  Nom VARCHAR(15),
+  
+  );
+  INSERT INTO Province( Code_Province,Nom)  VALUES ('QC','Québec')
+     INSERT INTO Province( Code_Province,Nom)  VALUES ('ON','Ontario')
+
+
+DROP TABLE IF EXISTS dbo.Profession;
+ CREATE TABLE Profession (
+  Id_Profession INT  PRIMARY KEY,
+  Nom VARCHAR(15),
+  
+  );
+  INSERT INTO Profession( Id_Profession,Nom)  VALUES (1,'Étudiant')
+     INSERT INTO Profession( Id_Profession,Nom)  VALUES (2,'programmeur')
+	  GO	
+      DROP TABLE IF EXISTS dbo.Personne;
+CREATE TABLE dbo.Personne 
+(
+    Id_Personne INT identity(1, 1) NOT NULL PRIMARY KEY,
+    Prenom varchar(15) NOT NULL,
+    NomFamille varchar(20) NOT NULL,
+    Age INT NOT NULL,
+    Actif TiNyINT,
+    Date_CreationBidon datetime,
+    Total_Ventes decimal(12, 2),
+    Id_Profession INT NOT NULL,
+    Code_Province varchar(5) NOT NULL,
+    FOREIGN KEY(Id_Profession) REFERENCES dbo.Profession(Id_Profession),
+    FOREIGN KEY (Code_Province) REFERENCES dbo.Province(Code_Province)
+)
+

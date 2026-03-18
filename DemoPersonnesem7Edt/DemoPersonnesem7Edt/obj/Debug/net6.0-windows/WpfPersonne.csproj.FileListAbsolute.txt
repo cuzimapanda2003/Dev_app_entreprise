@@ -1,0 +1,791 @@
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\persListObserv\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine03\PersonObservable\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersonDataserviceCollecW\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDataserviceCollecSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine04\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\4_PersDSSansnotify\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine05\5b_PerslLien1-1ComboBox\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\test\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\ETDWpfPersonneInsertUpdateDelete\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine06BD\etdPersaddDeleteSavecancel\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridstylo\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine9bGridamis\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_cours25mars2025\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.g.cs
+C:\Users\lamyot\Downloads\datagridChaussure\datagridChaussure\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CopyComplete
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2025\_coursavril11\DatagridPersonne\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.g.cs
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.baml
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPerso.2F52E30E.Up2Date
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\Downloads\WpfPersonne (2)\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPerso.2F52E30E.Up2Date
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\FinalPersonne\WpfPersonne\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\Views\ListSelectchaussureView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPerso.2F52E30E.Up2Date
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonneDataservice\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\App.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPerso.2F52E30E.Up2Date
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\semaine7\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\ref\WpfPersonne.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.exe
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.deps.json
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.runtimeconfig.json
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.csproj.AssemblyReference.cache
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\AccueilView.g.cs
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\PersonneView.g.cs
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.cache
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne_MarkupCompile.lref
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\App.baml
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\AccueilView.baml
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\Views\PersonneView.baml
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.g.resources
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfoInputs.cache
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.AssemblyInfo.cs
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.csproj.CoreCompileInputs.cache
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPerso.2F52E30E.Up2Date
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\refint\WpfPersonne.dll
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.pdb
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\WpfPersonne.genruntimeconfig.cache
+C:\Users\marcb\Downloads\DemoPersonnesem7Edt\DemoPersonnesem7Edt\obj\Debug\net6.0-windows\ref\WpfPersonne.dll

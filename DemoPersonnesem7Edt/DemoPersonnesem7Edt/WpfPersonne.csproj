@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Converters\**" />
+    <EmbeddedResource Remove="Converters\**" />
+    <None Remove="Converters\**" />
+    <Page Remove="Converters\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="dataservicePersonne3.txt" />
+    <None Remove="lien1_1_ComboBox_5b.txt" />
+    <None Remove="ListPersonne1.txt" />
+    <None Remove="scripts\scriptPersonne.txt" />
+    <None Remove="SQLQuery1.sql" />
+    <None Remove="SQLQuery2.sql" />
+    <None Remove="SQLQuery22.sql" />
+    <None Remove="SQLQufsdfsdfery2.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="scripts\" />
+  </ItemGroup>
+
+</Project>

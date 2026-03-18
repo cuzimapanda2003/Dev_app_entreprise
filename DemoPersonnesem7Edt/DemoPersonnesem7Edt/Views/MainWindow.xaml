@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfPersonne.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+     xmlns:views="clr-namespace:WpfPersonne.Views"
+     xmlns:viewmodels="clr-namespace:WpfPersonne.ViewModels"
+     
+        xmlns:local="clr-namespace:WpfPersonne"
+        mc:Ignorable="d"
+        Title="DemoPersonne" Name="win"  Height="700" Width="1100">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+        <RowDefinition   Height="Auto"/>
+        <!--menu-->
+        <RowDefinition   Height="*"/>
+        <!--View spécifique-->
+        </Grid.RowDefinitions>
+
+    <Menu   Width="{Binding ElementName=win, Path=Width}">
+        <MenuItem Header="_Accueil" Command="{Binding CmdGotoAccueil}"  />
+        <MenuItem  Header="_Personnes" Command="{Binding CmdGotoPersonne}"   />
+    </Menu>
+    <ContentControl Grid.Row="1" Content="{Binding CurrentViewModel}" >
+        <ContentControl.Resources>
+            <DataTemplate x:Name="AccueilViewTemplate"
+           DataType="{x:Type  viewmodels:AccueilViewModel}">
+                <views:AccueilView/>
+                <!--bind sur dataContext win dans cs-->
+            </DataTemplate>
+            <DataTemplate x:Name="PersonneViewTemplate"
+            DataType="{x:Type  viewmodels:PersonneViewModel}">
+                <views:PersonneView/>
+                <!--bind sur dataContext win dans cs-->
+            </DataTemplate>
+        </ContentControl.Resources>
+        </ContentControl>
+    </Grid>
+
+   
+</Window>

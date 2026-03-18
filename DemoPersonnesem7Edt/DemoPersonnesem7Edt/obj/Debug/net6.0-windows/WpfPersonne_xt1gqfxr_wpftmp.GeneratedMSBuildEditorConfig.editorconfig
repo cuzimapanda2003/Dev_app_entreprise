@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WpfPersonne_xt1gqfxr_wpftmp
+build_property.ProjectDir = C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_2021\_COURS_WPF_H2021\_0SS h24\semaine8\WpfPersonne\
