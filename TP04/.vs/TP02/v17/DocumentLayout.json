@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\tp04\\service\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:service\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\script\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:script\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\viewsmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:viewsmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\viewsmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:viewsmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\ViewsModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\ViewsModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T18:09:11.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:32:46.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\ViewsModels\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "ViewsModels\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\ViewsModels\\ClientViewModel.cs",
+              "RelativeToolTip": "ViewsModels\\ClientViewModel.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAYwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:51:56.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\Service\\DataService.cs",
+              "RelativeDocumentMoniker": "Service\\DataService.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\Service\\DataService.cs",
+              "RelativeToolTip": "Service\\DataService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T15:26:23.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\script\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "script\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\script\\SQLQuery1.sql",
+              "RelativeToolTip": "script\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-12T15:34:58.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\Views\\ClientView.xaml",
+              "RelativeDocumentMoniker": "Views\\ClientView.xaml",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP04\\Views\\ClientView.xaml",
+              "RelativeToolTip": "Views\\ClientView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-12T15:26:33.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\views\\accueilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:views\\accueilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\views\\personneview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:views\\personneview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\views\\listselectchaussureview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:views\\listselectchaussureview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\viewmodels\\personneviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:viewmodels\\personneviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:models\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\models\\chaussure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:models\\chaussure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\demopersonnesem7edt\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635BF1E4-2752-4F87-8F10-5373085FA41F}|WpfPersonne.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:38:53.082Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListSelectchaussureView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\ListSelectchaussureView.xaml",
+              "RelativeDocumentMoniker": "Views\\ListSelectchaussureView.xaml",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\ListSelectchaussureView.xaml",
+              "RelativeToolTip": "Views\\ListSelectchaussureView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-01T15:11:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonneViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\ViewModels\\PersonneViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\PersonneViewModel.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\ViewModels\\PersonneViewModel.cs",
+              "RelativeToolTip": "ViewModels\\PersonneViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:44:20.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonneView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\PersonneView.xaml",
+              "RelativeDocumentMoniker": "Views\\PersonneView.xaml",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\PersonneView.xaml",
+              "RelativeToolTip": "Views\\PersonneView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-01T14:43:28.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Services\\DataService.cs",
+              "RelativeToolTip": "Services\\DataService.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAADwvxgBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T14:13:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Models\\Personne.cs",
+              "RelativeDocumentMoniker": "Models\\Personne.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Models\\Personne.cs",
+              "RelativeToolTip": "Models\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T21:34:29.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chaussure.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Models\\Chaussure.cs",
+              "RelativeDocumentMoniker": "Models\\Chaussure.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Models\\Chaussure.cs",
+              "RelativeToolTip": "Models\\Chaussure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T21:28:45.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:34:30.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccueilView.xaml",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\AccueilView.xaml",
+              "RelativeDocumentMoniker": "Views\\AccueilView.xaml",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\AccueilView.xaml",
+              "RelativeToolTip": "Views\\AccueilView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-29T20:20:25.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:14:09.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\DemoPersonnesem7Edt\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-29T20:12:45.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.Properties.Resources.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.GenerateResource.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.AssemblyReference.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\App.g.cs
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.lref
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.baml
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.g.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.Properties.Resources.resources
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.GenerateResource.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.CoreCompileInputs.cache
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\lamyot\OneDrive - Cégep de Shawinigan\Backup\a_dataL\a_dataL\repos\0SS_H2026\TestConnexion_Sql_VS\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.AssemblyReference.cache
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.g.cs
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\App.g.cs
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.cache
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.lref
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.baml
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.g.resources
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.Properties.Resources.resources
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.GenerateResource.cache
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.CoreCompileInputs.cache
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\marcb\Downloads\WpfCsharpTextConnexionBdSqlServeur\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\bin\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.AssemblyReference.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe.config
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\App.g.cs
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur_MarkupCompile.lref
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\MainWindow.baml
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.g.resources
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.Properties.Resources.resources
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.GenerateResource.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.csproj.CoreCompileInputs.cache
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.exe
+C:\Users\marcb\OneDrive\Documents\_Cégep\session 04\Dev_app_entreprise\WpfCsharpTextConnexionBdSqlServeur\obj\Debug\WpfCsharpTextConnexionBdSqlServeur.pdb

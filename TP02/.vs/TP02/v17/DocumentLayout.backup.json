@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\tp02\\viewsmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:viewsmodels\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\views\\acceuilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:views\\acceuilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\viewsmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:viewsmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|c:\\users\\marcb\\onedrive\\documents\\_c\u00E9gep\\session 04\\dev_app_entreprise\\tp02\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\views\\acceuilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:views\\acceuilview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:views\\clientview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCABE785-F76C-42C5-8303-2E8C1C00AE8A}|TP02.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,37 +50,35 @@
               "RelativeToolTip": "Models\\Client.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:12:32.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:12:32.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ClientView.xaml",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Views\\ClientView.xaml",
               "RelativeDocumentMoniker": "Views\\ClientView.xaml",
               "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Views\\ClientView.xaml",
               "RelativeToolTip": "Views\\ClientView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-21T22:42:19.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T22:42:19.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClientViewModel.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\ViewsModels\\ClientViewModel.cs",
               "RelativeDocumentMoniker": "ViewsModels\\ClientViewModel.cs",
               "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\ViewsModels\\ClientViewModel.cs",
               "RelativeToolTip": "ViewsModels\\ClientViewModel.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAADwv50AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwKcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T23:22:19.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\ViewsModels\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "ViewsModels\\BaseViewModel.cs",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "ViewsModels\\BaseViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T23:01:23.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T23:01:23.677Z"
             },
             {
               "$type": "Document",
@@ -100,8 +97,7 @@
               "ToolTip": "C:\\Users\\marcb\\OneDrive\\Documents\\_C\u00E9gep\\session 04\\Dev_app_entreprise\\TP02\\Views\\AcceuilView.xaml",
               "RelativeToolTip": "Views\\AcceuilView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-02-21T22:42:15.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T22:42:15.597Z"
             }
           ]
         }

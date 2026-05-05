@@ -1,0 +1,38 @@
+﻿<Window x:Class="tpFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tpFinal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1300"
+      xmlns:views="clr-namespace:tpFinal.Views"
+     xmlns:viewmodels="clr-namespace:tpFinal.ViewModels">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!--  menu  -->
+            <RowDefinition Height="*" />
+            <!--  View spécifique  -->
+        </Grid.RowDefinitions>
+
+        <Menu Width="{Binding ElementName=win, Path=Width}">
+            <MenuItem Command="{Binding CmdGotoAccueil}" Header="_Accueil" />
+            <MenuItem Command="{Binding CmdGotoAventurier}" Header="_Aventurier" />
+        </Menu>
+        <ContentControl Grid.Row="1" Content="{Binding CurrentViewModel}">
+            <ContentControl.Resources>
+                <DataTemplate x:Name="AccueilViewTemplate" DataType="{x:Type viewmodels:AcceuilViewModel}">
+                    <views:Acceuil />
+                    <!--  bind sur dataContext win dans cs  -->
+                </DataTemplate>
+                <DataTemplate x:Name="AventurierViewTemplate" DataType="{x:Type viewmodels:AventurierViewModel}">
+                    <views:AventurierView />
+                    <!--  bind sur dataContext win dans cs  -->
+                </DataTemplate>
+            </ContentControl.Resources>
+        </ContentControl>
+    </Grid>
+    
+</Window>

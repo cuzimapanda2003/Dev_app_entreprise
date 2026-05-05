@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfCsharpTextConnexionBdSqlServeur.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCsharpTextConnexionBdSqlServeur"
+        mc:Ignorable="d"
+        Title="Test de connexion SQL serveur" Height="450" Width="800">
+    <Grid>
+
+        <StackPanel Margin="10">
+            <TextBlock Name="TxtMachine"></TextBlock>
+            <TextBlock  Text="Chaîne de connexion a écrire dans MainWindows.xaml.cs :" FontWeight="Bold" />
+            <TextBlock Text="  soit  Modifier le serveur et (la BD test au besoin ):" />
+            <TextBlock Text="  soit copier votre chaine qui se trouve dans propriétés de la BD (clic droit) dans l'affichage de serveur. " />
+            <TextBox Name="txtConnexion" Height="30" IsEnabled="False"/>
+            <TextBlock Name="TxtServeur"></TextBlock>
+            <Button Content="Tester" Height="35" Margin="0,10,0,0"
+                Click="Button_Click"/>
+
+            <TextBlock Name="txtResultat" Margin="0,10,0,0" 
+                   TextWrapping="Wrap"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
